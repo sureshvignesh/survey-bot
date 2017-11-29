@@ -1,1 +1,9 @@
+# Ignore bundler config.
+/.bundle
+
+# Ignore log files and temporary files.
+/log/*
+!/log/.keep
+/tmp
+
 .DS_Store
